@@ -1,0 +1,37 @@
+
+
+/* id selector */
+#Judul {
+    font-weight: 800;
+    color:red;
+}
+
+.sub-judul {
+    color:blue;
+}
+
+.content{
+    font-style:italic;
+    color:green;
+/* multiple selector */
+.p1, .p3{
+    color:blue;
+}
+
+.link:hover {}
+    background-colour:black;
+    color:white;
+
+    .box {
+        baground-color:black;
+        color:white;
+    }
+
+.box .content {
+    border:1px solid blue;
+    bacground-color:green;
+}
+.box p{
+    color:white;
+}
+}
